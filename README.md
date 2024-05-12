@@ -6,6 +6,6 @@ The primary objective of this project is to create a playable version of Tic Tac
 
 Clone this repository using: 
 ```diff
-(https://github.com/sadhanasharma26/TicTacToeGUI_JAVA.git)
+https://github.com/sadhanasharma26/TicTacToeGUI_JAVA.git
 ```
 
